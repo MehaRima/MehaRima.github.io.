@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 HELLO!!!
-I AM  * SAHELI BASU *  .
+I AM  *SAHELI BASU*  .
 Born (on 23rd September 1995) and brought up in KOLKATA,WEST BENGAL,INDIA.
 I am the only child of my parents:TAPAN KUMAR BASU AND LINA BASU.
 
@@ -24,4 +24,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[sahelirima23@gmail.com](mailto:sahelirima23@gmail.com)
+[Email](mailto:sahelirima23@gmail.com)
