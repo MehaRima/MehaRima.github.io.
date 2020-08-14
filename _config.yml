@@ -4,7 +4,7 @@
 name : SAHELI  BASU
 
 # Short bio or description (displayed in the header)
-description: Web Developer, Author,Graphic Designer
+description: Web Developer,Author,Graphic Designer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/MehaRima/MehaRima.github.io/blob/master/images/Avatar.png
@@ -19,7 +19,7 @@ footer-links:
   email: "saheli_basu@gmail.com"
   facebook:
   flickr:
-  github: "http://github.com/MehaRima" 
+  github: "/MehaRima" 
   instagram:
   linkedin: "www.linkedin.com/in/saheli-basu"
   pinterest: "https://in.pinterest.com/sahelibasu/"
