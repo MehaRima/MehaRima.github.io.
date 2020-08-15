@@ -21,8 +21,8 @@ footer-links:
   flickr:
   github: "/MehaRima" 
   instagram:
-  linkedin: "www.linkedin.com/in/saheli-basu"
-  pinterest: "https://in.pinterest.com/sahelibasu/"
+  linkedin: "in/saheli-basu"
+  pinterest: "/sahelibasu/"
   rss: # just type anything here for a working RSS icon
   twitter: "@ThisisBasu"
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -46,7 +46,8 @@ url: "http://MehaRima.github.io"
 # then add in the baseurl here, like this: "/repository-name"
 
 #baseurl: "/MehaRima"
-#porturl: "/portfolio.html"
+#
+porturl: "/portfolio.html"
 
 
 #
