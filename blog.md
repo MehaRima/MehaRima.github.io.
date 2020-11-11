@@ -4,7 +4,7 @@ title: blog
 permalink: /blog/
 ---
 
-## More Information
-### It’s still under development
+## Coursera Credentials
+### Specializations & Certificates
 
-[Go here](https://github.com/MehaRima/Coursera_Capstone/)
+[VIew here](https://docs.google.com/document/d/e/2PACX-1vR_7pv6AUgEI1MBfQ4tKBzV5fvrOvECwnyvUE8rYKjtH4yM7gTUYEFa_BcJA4Iih-sKvPzU1ml2US_A/pub#h.4r95st60yixf)
