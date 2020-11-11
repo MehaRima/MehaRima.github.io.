@@ -10,10 +10,8 @@ permalink: /blog/
 
 *Achieved by SAHELI BASU*
 
-## My Specializations
-
-``` 
-
+## 
+![My Specializations](https://github.com/MehaRima/MehaRima.github.io/blob/master/Specialization.png)
 
 
 ``` Courses
