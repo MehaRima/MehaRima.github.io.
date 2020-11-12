@@ -10,11 +10,53 @@ permalink: /blog/
 
 *Achieved by SAHELI BASU*
 
-## 
-![My Specializations](https://github.com/MehaRima/MehaRima.github.io/blob/master/Specialization.png)
+```
+ Specializations
+```
+Biostatistics in Public Health
+
+Learn Mandarin Chinese
+
+Graphic Design
+
+Ethics in the Age of AI
+
+AWS Fundamentals
+
+Excel to MySQL: Analytic Techniques for Business
+
+Natural Language Processing
+
+Game Design: Art and Concepts
+
+Advanced Machine Learning
+
+Dynamic Public Speaking
+
+Creative Writing
+
+Machine Learning for Everyone with Eric Siegel
+
+Object Oriented Programming in Java
+
+Graphic Design Elements for Non-Designers
+
+Learn Spanish: Basic Spanish Vocabulary
+
+Good with Words: Writing and Editing
+
+Google IT Support
+
+Introduction to Discrete Mathematics for Computer Science 
 
 
-``` Courses
+
+
+
+``` 
+ Courses
+```
+
 
 Contact Center AI: Operations and Implementation
 
@@ -401,5 +443,9 @@ Operating Systems and You: Becoming a Power User
 The Bits and Bytes of Computer Networking
 
 Technical Support Fundamentals
+
+```
+ Verify Credentials
+ ```
 
 [VIew here](https://docs.google.com/document/d/e/2PACX-1vR_7pv6AUgEI1MBfQ4tKBzV5fvrOvECwnyvUE8rYKjtH4yM7gTUYEFa_BcJA4Iih-sKvPzU1ml2US_A/pub#h.4r95st60yixf)
