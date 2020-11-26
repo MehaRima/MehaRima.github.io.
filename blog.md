@@ -34,8 +34,6 @@ permalink: /blog/
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Quick View links
 
-* Verified Credentials*
-
 - [Biostatistics in Public Health](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/FUJT4RHGT72X&amp;sa=D&amp;ust=1606334887130000&amp;usg=AOvVaw3_R69b31VBS65ZFCFszzmF)
 - [Learn Mandarin Chinese](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/DJKBJGMZPCKK&amp;sa=D&amp;ust=1606334887131000&amp;usg=AOvVaw0GnA2riCjY297-ydYlt4Mz)
 - [Graphic Design](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/N29PUEDH8HYK&amp;sa=D&amp;ust=1606334887132000&amp;usg=AOvVaw3rpfi-niLrknD3ZGQex-gR)
@@ -253,6 +251,7 @@ permalink: /blog/
 - [Operating Systems and You: Becoming a Power User](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/records/Z8U5LLA3M824&amp;sa=D&amp;ust=1606334887318000&amp;usg=AOvVaw0Yrp1JwEfa9Awf-08RiNtS)
 - [The Bits and Bytes of Computer Networking](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/records/GLTAQPC58Q89&amp;sa=D&amp;ust=1606334887319000&amp;usg=AOvVaw0JnuUSGumEU2MMI6iemBeZ)
 - [Technical Support Fundamentals](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/records/CA2PFHRXMF6X&amp;sa=D&amp;ust=1606334887320000&amp;usg=AOvVaw1YrtgiG2XtnDMQ7YFvcq4T)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
