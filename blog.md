@@ -10,13 +10,15 @@ permalink: /blog/
 
 *Achieved by SAHELI BASU*
 
+- Accomplishments-markdown/DS : Data Science related
+- Accomplishments-markdown/GD : Graphic Design
+- Accomplishments-markdown/TP : Technical and Programming
+- Accomplishments-markdown/BM : Business and Management
+- Accomplishments-markdown/LW : Languages and Writings
 
-- /DS : Data Science related
-- /GD : Graphic Design
-- /TP : Technical and Programming
-- /BM : Business and Management
-- /LW : Languages and Writings
-- /S : Specializations
-- /P : Projects
-- /C : Courses
+- S : Specializations
+- P : Projects
+- C : Courses
+
+
 
