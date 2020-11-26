@@ -10,21 +10,13 @@ permalink: /blog/
 
 *Achieved by SAHELI BASU*
 
-```
- Specializations
-```
-![Page-1](https://github.com/MehaRima/MehaRima.github.io/blob/master/images/Page-1.jpg)
 
+- /DS : Data Science related
+- /GD : Graphic Design
+- /TP : Technical and Programming
+- /BM : Business and Management
+- /LW : Languages and Writings
+- /S : Specializations
+- /P : Projects
+- /C : Courses
 
-``` 
- Courses
-```
-
-![Page-2](https://github.com/MehaRima/MehaRima.github.io/blob/master/images/Page-2.jpg)
-
-
-```
- Verify Credentials
- ```
-
-[VIew here](https://docs.google.com/document/d/e/2PACX-1vR_7pv6AUgEI1MBfQ4tKBzV5fvrOvECwnyvUE8rYKjtH4yM7gTUYEFa_BcJA4Iih-sKvPzU1ml2US_A/pub#h.4r95st60yixf)
