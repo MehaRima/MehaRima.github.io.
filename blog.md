@@ -9,7 +9,7 @@ permalink: /blog/
 
 ## Abbreviations
 -----------------
----
+
 - DS : Data Science related
 - GD : Graphic Design 
 - TP : Technical and Programming
@@ -18,6 +18,7 @@ permalink: /blog/
 - S : Specializations
 - P : Projects
 - C : Courses
+
 ---
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
