@@ -1,11 +1,6 @@
 ---
 layout: post
-title: Let's introduce ourselves!
+title: Hello and Welcome!
 ---
-
-Still developing this work.Yet to update nd include avatar and other options using the _config.yml file in the root of the main repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make the first post is to edit the demo provided. 
-Go into /_posts/ and update the Hello World markdown file. 
+<h2> Hello !!</h2>
+<p><h3>Welcome to my Portfolio Website</h3></p>
