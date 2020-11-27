@@ -4,6 +4,9 @@ title: cv
 permalink: /cv/
 ---
 ## More Information
+- [DS Resume](https://meharima.github.io/DS.html)
+
 ### It’s still under development
 
-[Go here](https://github.com/MehaRima)
+- [Credentials](https://meharima.github.io/blog/)
+- [Go here](https://github.com/MehaRima)
