@@ -36,7 +36,7 @@ permalink: /blog/
 - [ Languages and Writings](https://github.com/MehaRima/MehaRima.github.io/blob/master/Accomplishments-markdown/LW.md)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ## Quick View links
+ ##  Quick View links
 
 - [Biostatistics in Public Health](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/FUJT4RHGT72X&amp;sa=D&amp;ust=1606334887130000&amp;usg=AOvVaw3_R69b31VBS65ZFCFszzmF)
 - [Learn Mandarin Chinese](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/DJKBJGMZPCKK&amp;sa=D&amp;ust=1606334887131000&amp;usg=AOvVaw0GnA2riCjY297-ydYlt4Mz)
