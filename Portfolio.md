@@ -4,14 +4,10 @@ title: Portfolio
 permalink: /Portfolio/
 ---
 
-Some information about you!
+I have created this simple website and listed all my projects there.Please have a look!!
 
 ### Content Overview
 
-A place to include any other types of information that you'd like to include about yourself.
-[Go here](https://github.com/MehaRima)
+[Check out this website ](https://meharima.github.io/sahelibasu/)
 
 
-### Interact 
-
-[email@domain.com](mailto:email@domain.com)
