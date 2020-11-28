@@ -10,8 +10,9 @@ I have created this simple website and listed all my projects there.Please have 
 
 Please switch to the desktop mode for better experience.
 
+_Note_ :
 ```
-_Note_ : Currently working on the Responsiveness feature.
+ Currently working on the Responsiveness feature.
 ```
 
 
