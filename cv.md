@@ -1,10 +1,14 @@
 ---
 layout: page
-title: cv
+title: CV 
 permalink: /cv/
 ---
-## More Information
+## Professional Information
 - [DS Resume](https://meharima.github.io/DS.html)
+- [TP Resume](https://meharima.github.io/TP.html)
+- [LW Resume](https://meharima.github.io/LW.html)
+- [BM Resume](https://meharima.github.io/BM.html)
+- [GD Resume](https://meharima.github.io/GD.html)
 
 ### It’s still under development
 
