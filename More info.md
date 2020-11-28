@@ -1,15 +1,14 @@
 ---
 layout: page
-title: More info
+title: Project work
 permalink: /More info/
 ---
 
-Some information about you!
+Some information about project work done!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-[Go here](https://github.com/MehaRima/Coursera_Capstone/blob/master/ADS_Assignments/readme.md)
+[Go here](https://github.com/MehaRima)
 
 ### Contact Information
 
